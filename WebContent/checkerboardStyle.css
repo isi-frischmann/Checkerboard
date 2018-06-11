@@ -1,0 +1,13 @@
+.redBox{
+	display: inline;
+	background-color: red;
+	width: 40px;
+	height: 40px;
+}
+
+.blueBox{
+	display: inline;
+	background-color: blue;
+	width: 40px;
+	height: 40px;
+}
